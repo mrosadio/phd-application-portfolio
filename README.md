@@ -3,7 +3,6 @@ This repository shows selected empirical projects demonstrating my experience in
 
 The projects included here highlight my approach to data collection, cleaning, analysis, and reproducible research workflows.
 
---
 ## What This Portfolio Demonstrates
 
 This portfolio emphasizes:
@@ -14,7 +13,6 @@ This portfolio emphasizes:
 - Network construction and graph-based analysis  
 - Independent project design and documentation  
 
---
 
 ## Selected projects
 
@@ -24,17 +22,14 @@ Graph construction, centrality measures, participation/exposure modeling, etc.
 
 Repository link: [link]
 
---
 
 ### 2. Improving business safety inspection in Peru - impact evaluation
 Repository link: [link]
 
---
 
 ### 3. Weather Shocks, Risk Perceptions, and Household Economic Behavior
 Repository link: [link]
 
---
 
 ### 4. Scraping pipeline 
 Scraping national policy strategies from PDFs of policy documents of 55 African countries
