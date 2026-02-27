@@ -28,10 +28,4 @@ Repository link: [link]
 
 
 ### 3. Weather Shocks, Risk Perceptions, and Household Economic Behavior
-Repository link: [link]
-
-
-### 4. Scraping pipeline 
-Scraping national policy strategies from PDFs of policy documents of 55 African countries
-
-Repository link: [link]
+Repository link: [link] (https://github.com/mrosadio/risk-return-perception/tree/main)
