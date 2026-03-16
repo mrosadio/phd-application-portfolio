@@ -20,7 +20,7 @@ This portfolio emphasizes:
 
 Graph construction, centrality measures, participation/exposure modeling, etc.
 
-Repository link: [link] (https://github.com/mrosadio/migration-networks/tree/main)
+Repository link: [link](https://github.com/mrosadio/migration-networks/tree/main)
 
 
 ### 2. Improving business safety inspection in Peru - impact evaluation
@@ -28,4 +28,4 @@ Repository link: [link]
 
 
 ### 3. Weather Shocks, Risk Perceptions, and Household Economic Behavior
-Repository link: [link] (https://github.com/mrosadio/risk-return-perception/tree/main)
+Repository link: [link](https://github.com/mrosadio/risk-return-perception/tree/main)
