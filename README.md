@@ -20,7 +20,7 @@ This portfolio emphasizes:
 
 Graph construction, centrality measures, participation/exposure modeling, etc.
 
-Repository link: [link]
+Repository link: [link] (https://github.com/mrosadio/migration-networks/tree/main)
 
 
 ### 2. Improving business safety inspection in Peru - impact evaluation
