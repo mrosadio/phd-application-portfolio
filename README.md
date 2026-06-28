@@ -39,7 +39,7 @@ Constructs social network edgelists from household survey data using R
 social ties using PDS-LASSO and PPML. Integrated Stata/R pipeline, 
 version-controlled on GitHub.
 
-### 4. Climate finance diplomacy — data visualization
+### 4. Climate finance diplomacy data visualization
 **Repository:** [map-climate-diplomacy](https://github.com/mrosadio/map-climate-diplomacy)
 
 Country-level interactive visualization of climate finance partnership between 
