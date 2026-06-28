@@ -52,8 +52,8 @@ African countries and the EU, Gulf States and China. Built with D3.js and a worl
 ### 5. Impact evaluation using PDS-LASSO
 **Repository:** [pdslasso-impact-evaluation](https://github.com/mrosadio/pdslasso-impact-evaluation)
 
-Replication of a nonexperimental impact evaluation using the 
-PDS-LASSO estimator for covariate selection in a youth employment 
-program evaluation (Uganda).
+Selected Stata code from my master's thesis, "Short-term effects of a youth employment program in Uganda: A nonexperimental evaluation using the PDS-LASSO estimator."
+
+It demonstrates an applied econometric pipeline using PDS-LASSO (Belloni, Chernozhukov & Hansen, 2014) for data-driven control variable selection and geographic and graphical output for policy-relevant presentation of results.
 
 **Relevant to:** quantitative and causal inference foundations
